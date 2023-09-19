@@ -1,0 +1,83 @@
+body {
+    background-color: #e0e4e2;
+    font-family: Montserrat Regular;
+}
+.left {
+    background-color: white;
+    border-radius: 8%;
+    margin-left: 90px;
+    margin-top: 30px;
+    height: 720px;
+    width: 40%;
+    float: left;
+}
+
+.header {
+    margin-bottom: 40px;
+    margin-top: -20px;
+}
+
+.center{
+    height: 673px;
+    margin-top: 50px;
+    float: left;
+}
+
+h1 {
+    margin-bottom: -25px;
+    text-align: center;
+    font-size: 50px;
+}
+
+h3 {
+    font-size: 25px;
+    margin-left: 65px;
+}
+
+.someText {
+    margin: auto;
+    width: 520px;
+    text-align: justify;
+}
+
+#photo {
+    border-radius: 10%;
+    margin-left: 150px;
+    width: 500px;
+}
+
+.right {
+    float: left;
+    width: 6%;
+    height: 400px;
+    display: flex;
+    margin-left: 25px;
+    margin-top: 350px;    
+    display: flex;
+    justify-content: right;
+    position: relative;
+}
+
+.icons {
+    position: absolute;
+    bottom: 0;
+}
+
+.container {
+    margin-bottom: 15px;
+}
+
+.icon {
+    height: 50px;
+    width: 50px;
+}
+
+@font-face {
+    font-family: "Montserrat Ace Regular";
+    src: url(fonts/Montserrat-Ace-Regular.otf);
+}
+
+@font-face {
+    font-family: "Montserrat Regular";
+    src: url(fonts/Montserrat-Regular.ttf);
+}
