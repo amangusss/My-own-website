@@ -1,6 +1,7 @@
 body {
     background-color: #e0e4e2;
     font-family: Montserrat Regular;
+    margin-top: 30px;
 }
 .left {
     background-color: white;
@@ -52,7 +53,7 @@ h3 {
     height: 400px;
     display: flex;
     margin-left: 25px;
-    margin-top: 350px;    
+    margin-top: 380px;    
     display: flex;
     justify-content: right;
     position: relative;
